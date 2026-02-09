@@ -25,6 +25,7 @@
 
 [ДЗ1](https://github.com/pileyan/DPO_Python_2026/tree/main/hw1) сдавать [сюда](https://www.dropbox.com/request/yd2ezC0FKW7sswfotM3n) до 31 января **включительно**
 
+[ДЗ2](https://github.com/pileyan/DPO_Python_2026/tree/main/hw2) сдавать [сюда](https://www.dropbox.com/request/doFszhVn17tMuNNIPIOC) - я ссылку уже просрочил, так что сдавайте до 10 февраля включительно :)
 
 
 Всего на курсе ~ 9 заданий (включая проект), для получения зачета по этой части программы нужно иметь среднюю оценку не менее 4 из 10 (из расчета всех заданий по курсу, не только выполненных).
